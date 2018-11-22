@@ -9,7 +9,7 @@ public class C05_MathSqrt {
 
         double result = Math.sqrt(x);
 
-        System.out.println("Квадратный корень: "+ result);
+        System.out.println("Квадратный корень числа " + x + ": "+ result);
 
     }
 
